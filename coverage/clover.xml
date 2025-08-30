@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1756535394072" clover="3.2.0">
+  <project timestamp="1756535394072" name="All files">
+    <metrics statements="66" coveredstatements="50" conditionals="24" coveredconditionals="22" methods="16" coveredmethods="14" elements="106" coveredelements="86" complexity="0" loc="66" ncloc="66" packages="3" files="4" classes="4"/>
+    <package name="src">
+      <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+      <file name="App.jsx" path="/Users/warawich/git/qorder/qr-wifi/src/App.jsx">
+        <metrics statements="12" coveredstatements="12" conditionals="4" coveredconditionals="4" methods="3" coveredmethods="3"/>
+        <line num="8" count="21" type="stmt"/>
+        <line num="9" count="21" type="stmt"/>
+        <line num="11" count="21" type="stmt"/>
+        <line num="12" count="8" type="stmt"/>
+        <line num="13" count="8" type="stmt"/>
+        <line num="14" count="7" type="stmt"/>
+        <line num="15" count="7" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="21" count="21" type="stmt"/>
+        <line num="22" count="2" type="stmt"/>
+        <line num="23" count="2" type="stmt"/>
+        <line num="26" count="21" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="38" coveredstatements="22" conditionals="8" coveredconditionals="6" methods="11" coveredmethods="9"/>
+      <file name="QRDisplay.jsx" path="/Users/warawich/git/qorder/qr-wifi/src/components/QRDisplay.jsx">
+        <metrics statements="20" coveredstatements="4" conditionals="2" coveredconditionals="0" methods="3" coveredmethods="1"/>
+        <line num="5" count="2" type="stmt"/>
+        <line num="6" count="13" type="stmt"/>
+        <line num="7" count="0" type="stmt"/>
+        <line num="8" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="9" count="0" type="stmt"/>
+        <line num="10" count="0" type="stmt"/>
+        <line num="11" count="0" type="stmt"/>
+        <line num="12" count="0" type="stmt"/>
+        <line num="14" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="16" count="0" type="stmt"/>
+        <line num="17" count="0" type="stmt"/>
+        <line num="19" count="0" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+        <line num="22" count="0" type="stmt"/>
+        <line num="23" count="0" type="stmt"/>
+        <line num="26" count="0" type="stmt"/>
+        <line num="30" count="13" type="stmt"/>
+        <line num="63" count="2" type="stmt"/>
+      </file>
+      <file name="WiFiForm.jsx" path="/Users/warawich/git/qorder/qr-wifi/src/components/WiFiForm.jsx">
+        <metrics statements="18" coveredstatements="18" conditionals="6" coveredconditionals="6" methods="8" coveredmethods="8"/>
+        <line num="4" count="2" type="stmt"/>
+        <line num="5" count="56" type="stmt"/>
+        <line num="6" count="56" type="stmt"/>
+        <line num="7" count="56" type="stmt"/>
+        <line num="8" count="56" type="stmt"/>
+        <line num="9" count="56" type="stmt"/>
+        <line num="11" count="56" type="stmt"/>
+        <line num="12" count="10" type="stmt"/>
+        <line num="13" count="10" type="stmt"/>
+        <line num="16" count="56" type="stmt"/>
+        <line num="17" count="56" type="stmt"/>
+        <line num="20" count="56" type="stmt"/>
+        <line num="28" count="13" type="stmt"/>
+        <line num="38" count="7" type="stmt"/>
+        <line num="54" count="8" type="stmt"/>
+        <line num="59" count="4" type="stmt"/>
+        <line num="72" count="2" type="stmt"/>
+        <line num="85" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.utils">
+      <metrics statements="16" coveredstatements="16" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+      <file name="wifiFormatter.js" path="/Users/warawich/git/qorder/qr-wifi/src/utils/wifiFormatter.js">
+        <metrics statements="16" coveredstatements="16" conditionals="12" coveredconditionals="12" methods="2" coveredmethods="2"/>
+        <line num="12" count="10" type="cond" truecount="2" falsecount="0"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="17" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="20" count="9" type="stmt"/>
+        <line num="21" count="18" type="cond" truecount="2" falsecount="0"/>
+        <line num="22" count="15" type="stmt"/>
+        <line num="25" count="9" type="stmt"/>
+        <line num="26" count="9" type="stmt"/>
+        <line num="29" count="9" type="stmt"/>
+        <line num="32" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="34" count="8" type="cond" truecount="2" falsecount="0"/>
+        <line num="35" count="8" type="stmt"/>
+        <line num="39" count="9" type="cond" truecount="2" falsecount="0"/>
+        <line num="40" count="1" type="stmt"/>
+        <line num="44" count="9" type="stmt"/>
+        <line num="46" count="9" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
